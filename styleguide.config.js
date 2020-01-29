@@ -12,9 +12,9 @@ module.exports = {
       ]
     }
   },
-  title: "React Sample Components Library",
+  title: "Architect Components Library",
   styleguideDir: "dist-docs",
   moduleAliases: {
-    "react-sample-components-library": path.resolve(__dirname, "src")
+    "architect-components-library": path.resolve(__dirname, "src")
   }
 };

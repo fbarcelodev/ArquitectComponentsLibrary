@@ -1,7 +1,7 @@
 A very simple button.
 
 ```jsx
-import { Button } from "react-sample-components-library";
+import { Button } from "architect-components-library";
 
-<Button text="I MUST BE DREAMING" />
+<Button text="I MUST BE DREAMING frnk" />
 ```
